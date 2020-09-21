@@ -1,4 +1,4 @@
-p=open("chick.txt","r")
+p=open("chik.txt","r")
 ban=p.read()
 p.close()
 
