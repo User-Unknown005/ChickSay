@@ -1,0 +1,10 @@
+p=open("chick.txt","r")
+ban=p.read()
+p.close()
+
+st=input()
+print()
+print()
+print()
+print("            [ {} ]".format(st))
+print(ban)
